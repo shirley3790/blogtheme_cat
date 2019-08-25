@@ -3509,7 +3509,7 @@ hr {
   display: block;
   overflow: hidden;
   margin: 0 auto;
-  width: 85%;
+  width: 95%;
 }
 
 @media (max-width: 767px) {
