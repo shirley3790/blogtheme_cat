@@ -3031,7 +3031,7 @@ hr {
   display: none;
 }
 .posts-expand .post {
-  margin-top: 120px;
+  /* margin-top: 120px; */
 }
 .posts-expand .post:first-child {
   margin-top: 0;
